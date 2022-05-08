@@ -1,0 +1,62 @@
+.hero{
+    background-image: url('https://www.aamartaka.com/svg-icon/home_banner_background.svg');
+    background-color: #1b5f8d;
+    min-height: 100vh;
+}
+
+.banner-text{
+    padding-top: 200px;
+    font-size: 60px;
+}
+
+.loan{
+    background-color: #00b0be;
+    background-image: url('https://www.aamartaka.com/svg-icon/loan-front.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.deposit{
+    background-color: #7eb06a;
+    background-image: url('https://www.aamartaka.com/svg-icon/deposit-font.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.credit-card{
+    background-color: #d3a646;
+    background-image: url('https://www.aamartaka.com/svg-icon/credit-card-front.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.insurance{
+    background-color: #399e72;
+    background-image: url('https://www.aamartaka.com/svg-icon/insurance-font.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.prize-bond{
+    background-color: #b4ac6a;
+    background-image: url('https://www.aamartaka.com/svg-icon/prize-bond.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.banner-card{
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+.card-item{
+    margin-right: 5px;
+    min-width: 200px;
+    min-height: 300px;
+
+}

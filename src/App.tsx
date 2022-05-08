@@ -1,13 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Banner from './components/Home/Banner/Banner';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h2>Welcome to AAMAR BANK</h2>
-      </header>
+      <Banner />
     </div>
   );
 }
